@@ -1,0 +1,145 @@
+html {
+    background-image: url(./img/Max_v5__cef9359f-940d-46c8-9419-09f6634aa769.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: relative;
+    text-align: center;
+  }
+  
+  .header-container {
+    float: left;
+  }
+  
+  .logo-link {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .logo {
+    max-width: 130px;
+    height: 130px;
+    border-radius: 90px;
+  }
+  
+  .logo-text {
+    color: #f4426c;
+    font-size: 22px;
+    letter-spacing: 0.2em;
+  }
+  
+  h1 {
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #47202a;
+    border-radius: 10px;
+    display: inline-block;
+    color: #c53e00;
+    position: relative;
+    text-align: center;
+    padding: 0px;
+    right: 80px;
+    border: #000000 double;
+    border-radius: 30px;
+  }
+  nav {
+    background-color: #c53e00;
+     margin-bottom: 0px;
+    padding: 0px;
+    margin-top: -15px;
+   margin-left: -12px;
+   margin-right: -7px;
+  }
+  
+  .main-nav {
+    display: inline-block;
+    overflow: hidden;
+ 
+  }
+  
+  .main-nav__item {
+    
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  .main-nav__item a {
+    text-decoration: none;
+    color: black;
+    
+  }
+  
+  main {
+    position: absolute;
+  }
+  
+  .aside {
+    width: 100%;
+    max-width: 400px;
+    background-color: #c76345;
+    color: #ffd000;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  .aside h3 {
+    margin: 0;
+    font-size: 22px;
+    color: #682a00;
+    border: #000000 double;
+    border-radius: 30px;
+  }
+  
+  .aside-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000;
+    padding: 20px;
+    margin-top: 20px;
+    box-sizing: border-box;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  
+  aside p {
+    max-height: 140px;
+    overflow-y: scroll;
+    background-color: #c53e00;
+   
+  }
+  
+  .aside:nth-child(1) {
+    background-color:#c53e00;
+    border-radius: 40px;
+  }
+  
+  .aside:nth-child(2) {
+    background-color: #c53e00;
+    border-radius: 40px;
+  }
+  
+  .aside:nth-child(3) {
+    background-color: #c53e00;
+    border-radius: 40px;
+  }
+  
+  .aside:nth-child(4) {
+    background-color: #c53e00;
+    border-radius: 40px;
+  }
+
+  h2 {
+    background-color: #3b2419;
+    display: inline-block;
+    color: #a03d10;
+  }
+
